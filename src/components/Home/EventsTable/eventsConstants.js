@@ -45,6 +45,7 @@ export const searchFilters = {
   sortOn: ['Date', 'State', 'Name']
 }
 
+// TODO: Having no filters should not hide the data. 
 export const defaultSearchFilters = {
   party: ['Democratic', 'Republican', 'Independent'],
   meetingType: [
@@ -53,6 +54,7 @@ export const defaultSearchFilters = {
     'Campaign Town Hall',
     'Youth Vote',
     'Voting Rights',
+    'Other'
     'Tele-Town Hall'
   ],
   sortOn: 'Date'
