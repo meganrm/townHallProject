@@ -47,7 +47,7 @@
     "isotope-layout": "^3.0.6",
     "jquery": "^3.5.1",
     "jquery-typeahead": "^2.11.1",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "page": "^1.8.6",
     "react": "^16.10.2",
